@@ -17,7 +17,7 @@
       "KC_I",
       "KC_O",
       "KC_P",
-      "LSFT_T(KC_A)",
+      "KC_A",
       "LT(10,KC_S)",
       "LT(10,KC_D)",
       "LT(3,KC_F)",
@@ -26,7 +26,7 @@
       "KC_J",
       "KC_K",
       "LT(10,KC_L)",
-      "LSFT_T(KC_SCLN)",
+      "KC_SCLN",
       "KC_Z",
       "LCTL_T(KC_X)",
       "LALT_T(KC_C)",
@@ -38,8 +38,8 @@
       "LCTL_T(KC_DOT)",
       "KC_SLSH",
       "LT(8,KC_ESC)",
-      "LSFT(KC_BSPC)",
-      "RSFT(KC_SPC)",
+      "LSFT_T(KC_BSPC)",
+      "RSFT_T(KC_SPC)",
       "LT(8,KC_TAB)"
     ],
     [
@@ -362,8 +362,8 @@
       "KC_NO",
       "KC_NO",
       "KC_NO",
-      "KC_NO",
-      "KC_NO",
+      "TO(0)",
+      "TO(0)",
       "KC_NO"
     ],
     [
