@@ -28,7 +28,7 @@
       "LT(10,KC_L)",
       "KC_SCLN",
       "KC_Z",
-      "LCTL(KC_X)",
+      "LCTL_T(KC_X)",
       "LALT_T(KC_C)",
       "LGUI_T(KC_V)",
       "LT(12,KC_B)",
