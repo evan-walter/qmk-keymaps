@@ -506,8 +506,8 @@
       "KC_RCTL",
       "KC_NO",
       "KC_LSFT",
-      "KC_TRNS",
-      "KC_TRNS",
+      "TO(0)",
+      "TO(0)",
       "KC_RSFT"
     ],
     [
