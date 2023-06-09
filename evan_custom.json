@@ -3,7 +3,7 @@
   "notes": "",
   "documentation": "\"This file is a QMK Configurator export. You can import this at <https://config.qmk.fm>. It can also be used directly with QMK's source code.\n\nTo setup your QMK environment check out the tutorial: <https://docs.qmk.fm/#/newbs>\n\nYou can convert this file to a keymap.c using this command: `qmk json2c {keymap}`\n\nYou can compile this keymap using this command: `qmk compile {keymap}`\"\n",
   "keyboard": "ferris/sweep",
-  "keymap": "evan-custom",
+  "keymap": "evan_custom",
   "layout": "LAYOUT_split_3x5_2",
   "layers": [
     [
@@ -38,8 +38,8 @@
       "RCTL_T(KC_DOT)",
       "KC_SLSH",
       "LT(8,KC_ESC)",
-      "KC_TRNS",
-      "KC_TRNS",
+      "LSFT_T(KC_BSPC)",
+      "RSFT_T(KC_SPC)",
       "LT(8,KC_TAB)"
     ],
     [
@@ -316,9 +316,9 @@
       "KC_RCBR",
       "KC_RBRC",
       "KC_PIPE",
-      "LCTL_T(KC_LEFT)",
-      "LALT_T(KC_UP)",
-      "LGUI_T(KC_DOWN)",
+      "LCTL_T(KC_NO)",
+      "LALT_T(KC_NO)",
+      "LGUI_T(KC_NO)",
       "KC_RGHT",
       "KC_PLUS",
       "RGUI_T(KC_MINS)",
