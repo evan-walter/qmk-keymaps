@@ -355,7 +355,7 @@
       "LCTL_T(KC_LEFT)",
       "LALT_T(KC_UP)",
       "LGUI_T(KC_DOWN)",
-      "LSA(KC_RGHT)",
+      "KC_RGHT",
       "KC_LEFT",
       "RGUI_T(KC_DOWN)",
       "RALT_T(KC_UP)",
