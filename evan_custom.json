@@ -359,7 +359,7 @@
       "KC_LEFT",
       "RGUI_T(KC_DOWN)",
       "RALT_T(KC_UP)",
-      "RSA(KC_RGHT)",
+      "RCTL_T(KC_RGHT)",
       "KC_SLSH",
       "KC_ESC",
       "LSFT_T(KC_BSPC)",
