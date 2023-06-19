@@ -37,8 +37,8 @@
       "RALT_T(KC_COMM)",
       "RCTL_T(KC_DOT)",
       "RGUI_T(KC_SLSH)",
-      "LT(2,KC_BSPC)",
-      "LSFT_T(KC_SPC)",
+      "LT(2,KC_ESC)",
+      "LSFT_T(KC_BSPC)",
       "RSFT_T(KC_SPC)",
       "LT(2,KC_ESC)"
     ],
@@ -255,10 +255,10 @@
       "RALT_T(KC_W)",
       "RCTL_T(KC_V)",
       "RGUI_T(KC_Z)",
-      "LT(10,KC_BSPC)",
-      "LSFT_T(KC_SPC)",
+      "LT(10,KC_ESC)",
+      "LSFT_T(KC_BSPC)",
       "RSFT_T(KC_SPC)",
-      "LT(10,KC_ESC)"
+      "LT(10,KC_TAB)"
     ],
     [
       "KC_LCTL",
