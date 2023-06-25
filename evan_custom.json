@@ -73,10 +73,10 @@
       "KC_WH_U",
       "KC_WH_L",
       "KC_BTN2",
+      "TO(0)",
       "KC_BTN1",
-      "TO(0)",
-      "TO(0)",
-      "KC_BTN1"
+      "KC_BTN1",
+      "TO(0)"
     ],
     [
       "KC_LBRC",
@@ -227,8 +227,8 @@
       "KC_NO",
       "KC_VOLD",
       "KC_VOLU",
-      "KC_SLEP",
-      "KC_SLEP",
+      "LAG(KC_EJCT)",
+      "RAG(KC_EJCT)",
       "KC_VOLD",
       "KC_VOLU",
       "KC_NO",
@@ -326,10 +326,10 @@
       "KC_WH_U",
       "KC_WH_L",
       "KC_BTN2",
+      "TO(8)",
       "KC_BTN1",
-      "TO(8)",
-      "TO(8)",
-      "KC_BTN1"
+      "KC_BTN1",
+      "TO(8)"
     ],
     [
       "KC_LBRC",
