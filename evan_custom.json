@@ -37,10 +37,10 @@
       "RALT_T(KC_COMM)",
       "RCTL_T(KC_DOT)",
       "RGUI_T(KC_SLSH)",
-      "LSFT_T(KC_ESC)",
-      "LT(2,KC_SPC)",
-      "LT(2,KC_SPC)",
-      "RSFT_T(KC_BSPC)"
+      "LT(2,KC_ESC)",
+      "LSFT_T(KC_SPC)",
+      "RSFT_T(KC_SPC)",
+      "LT(2,KC_BSPC)"
     ],
     [
       "KC_LCTL",
@@ -109,10 +109,10 @@
       "RALT_T(KC_UP)",
       "RCTL_T(KC_RGHT)",
       "KC_SLSH",
+      "KC_NO",
       "KC_LSFT",
-      "KC_NO",
-      "KC_NO",
-      "KC_RSFT"
+      "KC_RSFT",
+      "KC_NO"
     ],
     [
       "KC_NO",
@@ -217,10 +217,10 @@
       "KC_F8",
       "KC_F9",
       "KC_F10",
-      "KC_PSTE",
+      "KC_NO",
       "SGUI(KC_R)",
       "RSG(KC_R)",
-      "KC_PSTE"
+      "KC_NO"
     ],
     [
       "KC_NO",
@@ -325,10 +325,10 @@
       "RALT_T(KC_W)",
       "RCTL_T(KC_V)",
       "RGUI_T(KC_Z)",
-      "LSFT_T(KC_ESC)",
-      "LT(10,KC_SPC)",
-      "LT(10,KC_SPC)",
-      "RSFT_T(KC_BSPC)"
+      "LT(10,KC_ESC)",
+      "LSFT_T(KC_SPC)",
+      "RSFT_T(KC_SPC)",
+      "LT(10,KC_BSPC)"
     ],
     [
       "KC_LCTL",
@@ -397,10 +397,10 @@
       "RALT_T(KC_UP)",
       "RCTL_T(KC_RGHT)",
       "KC_SLSH",
+      "KC_NO",
       "KC_LSFT",
-      "KC_NO",
-      "KC_NO",
-      "KC_RSFT"
+      "KC_RSFT",
+      "KC_NO"
     ],
     [
       "KC_NO",
@@ -505,10 +505,10 @@
       "KC_F8",
       "KC_F9",
       "KC_F10",
-      "KC_PSTE",
+      "KC_NO",
       "SGUI(KC_R)",
       "RSG(KC_R)",
-      "KC_PSTE"
+      "KC_NO"
     ],
     [
       "KC_NO",
