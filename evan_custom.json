@@ -218,8 +218,8 @@
       "KC_F9",
       "KC_F10",
       "KC_NO",
-      "SGUI(KC_R)",
-      "RSG(KC_R)",
+      "HYPR(KC_SPC)",
+      "HYPR(KC_SPC)",
       "KC_NO"
     ],
     [
@@ -290,8 +290,8 @@
       "HYPR(KC_V)",
       "HYPR(KC_Z)",
       "HYPR(KC_BSPC)",
-      "HYPR(KC_SPC)",
-      "HYPR(KC_SPC)",
+      "SGUI(KC_R)",
+      "RSG(KC_R)",
       "HYPR(KC_BSPC)"
     ]
   ],
